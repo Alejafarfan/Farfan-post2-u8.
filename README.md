@@ -102,4 +102,5 @@ src/main/resources/
     <img src="https://res.cloudinary.com/dindlmikf/image/upload/v1776623682/Captura_de_pantalla_2026-04-19_131728_hpdirq.png" alt="confirmar eliminación" width="600">
 
 6. Mensajes de validación de campos obligatorios
-    <img src="https://res.cloudinary.com/dindlmikf/image/upload/v1776623682/Captura_de_pantalla_2026-04-19_133009_xy8tvc.png" alt="validación de campos" width="600">
+ <img src="https://res.cloudinary.com/dindlmikf/image/upload/v1776623682/Captura_de_pantalla_2026-04-19_133009_xy8tvc.png" alt="validación de campos" width="600">
+ <img src="https://res.cloudinary.com/dindlmikf/image/upload/v1776623682/Captura_de_pantalla_2026-04-19_133059_jkou5a.png" alt="validación de campos" width="600">
